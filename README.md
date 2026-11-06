@@ -30,6 +30,8 @@ My mission is to build sovereign intelligence combining:
 ---
 
 ## 🔬 Areas of Expertise
+
+```
 Autonomous Systems & Defense
 ├── Multi-UAV Swarms & Swarm Intelligence
 ├── Physics-Informed Neural Networks (PINNs)
@@ -49,6 +51,12 @@ Edge AI & Computer Vision
 ├── Edge LLMs (Ollama / Local Inference)
 └── 3D Point Cloud Photogrammetry
 
+Data & Cloud Engineering
+├── Digital Twin Engineering (WebGL / Three.js)
+├── ETL & Telemetry Processing Pipelines
+├── Azure Cloud & Docker Containerization
+└── Post-Quantum Key Distribution & Cryptography
+```
 Data & Cloud Engineering
 ├── Digital Twin Engineering (WebGL / Three.js)
 ├── ETL & Telemetry Processing Pipelines
