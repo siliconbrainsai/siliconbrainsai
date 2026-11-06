@@ -30,3 +30,66 @@ My mission is to build sovereign intelligence combining:
 ---
 
 ## 🔬 Areas of Expertise
+---
+
+## ⚙️ Tech Stack
+
+- **Languages:** Python, C++, Rust, TypeScript, SQL
+- **AI / ML / CV:** PyTorch, OpenCV, YOLO, TensorRT, Ollama, Scikit-learn
+- **Backend & Cloud:** FastAPI, REST APIs, WebSockets, Docker, Azure, Redis
+- **Frontend & Visualization:** React, Three.js, Streamlit, Plotly, Recharts
+
+---
+
+## 🚀 Featured Projects & Platforms
+
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **GARUDA-AVOID / GARUDA-NETRA AI** | Autonomous UAV logistics and real-time obstacle avoidance framework using PINNs, Visual Odometry, and Post-Quantum Cryptography. | Python, PyTorch, C++, OpenCV, ArduPilot |
+| **AQUA-SENTINEL-X** | Subsurface biomimetic robotic fish swarm platform for maritime border surveillance and 3D bathymetric digital twins. | C++, Python, Hydrophone PSD, WebGL |
+| **AEROTWIN** | End-to-end eVTOL digital twin ecosystem built to compliant standards for airspace safety and anomaly detection. | FastAPI, Streamlit, Three.js, Python |
+| **SPACEHAB-TWIN AI (AETHEL-3)** | Physics-informed volumetric digital twin for deep space inflatable habitat breach detection and telemetry monitoring. | PINNs, Navier-Stokes Solvers, Python, WebGL |
+| **PROJECT LUNAR CARGO / VISHVAKARMA-X** | Lunar lander hazard avoidance and logistics digital twin utilizing mmWave radar fusion and ballistic capture solvers. | CUDA, C++, mmWave Radar, Python |
+| **ELEVATEGUARD AI** | Predictive maintenance & 72-hour failure prevention platform for high-concurrency industrial elevator networks. | Python, LightGBM, FastAPI, ISO/EN Standards |
+
+---
+
+## 📈 Impact Metrics
+
+| Metric | Achievement |
+| :--- | :--- |
+| 🚀 **Deployable AI Engines** | 20+ Production Frameworks |
+| 💻 **Architecture Hours** | 4,000+ Deep Engineering Hours |
+| 🛰️ **Domain Reach** | Aerospace, Maritime, Cyber Defense & Microservices |
+| 🛡️ **System Security** | Enterprise PQC & Kernel-Level Security Integration |
+| 🎯 **Execution Mindset** | Sovereign, Scalable & Mission-Critical |
+
+---
+
+## 📊 GitHub Analytics
+
+![SiliconBrainsAI Stats](https://github-readme-stats.vercel.app/api?username=siliconbrainsai&show_icons=true&theme=cyberpunk)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siliconbrainsai&layout=compact&theme=cyberpunk)
+
+---
+
+## 🛣️ 2026 Engineering Roadmap
+
+- [x] Deploy Multi-UAV Swarm Telemetry & Photogrammetry Engines
+- [x] Integrate Physics-Informed Neural Networks into Edge Robotics
+- [x] Expand Sovereign Enterprise & Aerospace Microservices Architectures
+- [ ] Deploy Edge AI Hardware Payloads into Orbit
+- [ ] Scale SiliconBrainsAI Autonomous Infrastructure Globally
+
+---
+
+## 💭 Engineering Philosophy
+
+> Technology alone does not change the world. Understanding physical constraints deeply and building robust, resilient architectures does. Real engineering begins where curiosity meets responsibility.
+
+---
+
+## ☕ Let's Build Something Exceptional
+
+🚀 **Open to Collaborations in:**  
+*Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Backend Systems*
