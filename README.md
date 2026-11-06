@@ -57,12 +57,6 @@ Data & Cloud Engineering
 ├── Azure Cloud & Docker Containerization
 └── Post-Quantum Key Distribution & Cryptography
 ```
-Data & Cloud Engineering
-├── Digital Twin Engineering (WebGL / Three.js)
-├── ETL & Telemetry Processing Pipelines
-├── Azure Cloud & Docker Containerization
-└── Post-Quantum Key Distribution & Cryptography
----
 
 ## ⚙️ Tech Stack
 
