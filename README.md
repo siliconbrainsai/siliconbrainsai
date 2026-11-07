@@ -127,3 +127,60 @@ Data & Cloud Engineering
 ├── ETL & Telemetry Processing Pipelines
 ├── Azure Cloud & Docker Containerization
 └── Post-Quantum Key Distribution & Cryptography
+⚙️ Tech Stack
+💻 Programming Languages
+🎨 Frontend & 3D Visualization
+⚙️ Backend & Systems Development
+☁️ Cloud, Edge & DevOps
+🤖 AI, Deep Learning & Vision
+🛠️ Developer Tools
+🚀 Featured Projects
+Project	Description	Technologies
+🛸 GARUDA-AVOID / GARUDA-NETRA AI	Autonomous UAV logistics & real-time obstacle avoidance framework	PINNs, Visual Odometry, PQC, PyTorch, C++
+🐟 AQUA-SENTINEL-X	Biomimetic robotic fish swarm platform for maritime border surveillance	C++, Hydrophone PSD, WebGL, 3D Digital Twin
+🚁 AEROTWIN	eVTOL digital twin ecosystem for airspace safety & structural health	FastAPI, Streamlit, Three.js, Python
+🌌 SPACEHAB-TWIN AI	Physics-informed digital twin for deep space habitat breach detection	PINNs, Navier-Stokes, Python, WebGL
+🌖 VISHVAKARMA-X	Lunar lander hazard avoidance & ballistic capture logistics digital twin	CUDA, C++, mmWave Radar Fusion, Python
+🏢 ELEVATEGUARD AI	Autonomous 72-hour predictive maintenance engine for elevator networks	Python, LightGBM, FastAPI, ISO/EN Standards
+📈 Impact Metrics
+Metric	Achievement
+🚀 Deployable AI Engines	20+ Production Frameworks
+💻 Architecture Hours	4,000+ Deep Engineering Hours
+🛰️ Domain Reach	Aerospace, Maritime, Cyber Defense & Microservices
+🛡️ System Security	Enterprise PQC & Kernel-Level Security Integration
+🎯 Execution Mindset	Sovereign, Scalable & Mission-Critical
+📊 GitHub Analytics
+🏆 GitHub Achievements
+🐍 Contribution Snake
+🛣️ 2026 Engineering Roadmap
+✅ Deploy Multi-UAV Swarm Telemetry & Photogrammetry Engines
+
+✅ Integrate Physics-Informed Neural Networks into Edge Robotics
+
+✅ Expand Sovereign Enterprise & Aerospace Microservices Architectures
+
+⏳ Deploy Edge AI Hardware Payloads into Orbit
+
+⏳ Scale SiliconBrainsAI Autonomous Infrastructure Globally
+
+💭 Engineering Philosophy
+Technology alone does not change the world.
+
+Understanding physical constraints deeply and building robust, resilient architectures does.
+
+Real engineering begins where curiosity meets responsibility.
+
+📚 Current Learning Journey
+Plaintext
+Autonomous Swarms & PINNs       ██████████ 100%
+Edge Computer Vision & CUDA     █████████░ 90%
+Backend Microservices           █████████░ 90%
+Post-Quantum Cryptography       ████████░░ 80%
+Aerospace Flight Dynamics       █████████░ 90%
+Space Debris & Telemetry        ████████░░ 80%
+Embedded Robotics & C4ISR       ███████░░░ 70%
+☕ Let's Build Something Exceptional
+🚀 Open to Collaborations in
+Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Backend Systems
+
+⭐ If you like my work, consider following my journey!
