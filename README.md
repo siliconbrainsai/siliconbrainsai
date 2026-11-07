@@ -111,3 +111,27 @@ Data & Cloud Engineering
 ├── ETL & Telemetry Processing Pipelines
 ├── Azure Cloud & Docker Containerization
 └── Post-Quantum Key Distribution & Cryptography
+---
+## ⚙️ Tech Stack & Ecosystem
+
+- **Languages:** Python, C++, Rust, TypeScript, C, Bash, SQL
+- **AI / ML / CV:** PyTorch, OpenCV, TensorRT, YOLO, Ollama, Scikit-Learn
+- **Backend & Systems:** FastAPI, REST APIs, WebSockets, Redis, PostgreSQL
+- **Cloud & DevOps:** Docker, Azure, Git, GitHub Actions, Linux
+- **Frontend & 3D:** React, Three.js, WebGL, Streamlit, Tailwind CSS
+
+---
+
+## 📊 Analytics & Metrics
+
+![SiliconBrainsAI Stats](https://github-readme-stats.vercel.app/api?username=siliconbrainsai&show_icons=true&theme=cyberpunk)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siliconbrainsai&layout=compact&theme=cyberpunk)
+
+---
+
+## ☕ Let's Build Something Exceptional
+
+🌐 **Official Portal:** [www.siliconbrainsai.com](https://www.siliconbrainsai.com)
+
+🚀 **Open to Collaborations in:**  
+*Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Systems*
