@@ -1,19 +1,23 @@
 <div align="center">
 
+<!-- 🚀 SILICONBRAINS AI BANNER -->
+![SiliconBrainsAI Banner](SiliconBrainsAI_%20Building%20Tomorrow%20with%20AI.png)
+
+<br>
+
 # ⚡ Veera Babu Veera
+### 🚀 Founder & Principal AI Architect, SiliconBrainsAI | Autonomous Systems & Defense AI Architect
 
-### 🚀 Founder & CEO, SiliconBrainsAI | Autonomous Systems & Defense AI Architect
+> 💡 *"Dream Big. Build Bold. Let AI Create a Smarter Tomorrow."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+Swarm+AI;Designing+Physics-Informed+Neural+Networks;Edge+Computer+Vision+%7C+Visual+Odometry;Digital+Twins+%7C+Defense+Cyber-Security;High-Performance+C%2B%2B%2FCUDA+%7C+FastAPI;Engineering+Sovereign+Mission-Critical+Systems" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Innovate+%E2%80%A2+Automate+%E2%80%A2+Elevate;Building+Intelligent+Solutions+for+a+Smarter+World;Python+%7C+AI%2FML+%7C+Computer+Vision+%7C+Robotics;Geospatial+AI+%7C+Cloud+%26+Scalability;Autonomous+Swarm+AI+%7C+Physics-Informed+Neural+Networks" />
 
 <br>
 
 <img src="https://img.shields.io/github/followers/siliconbrainsai?style=for-the-badge&logo=github&color=0e75b6" />
 <img src="https://img.shields.io/github/stars/siliconbrainsai?style=for-the-badge&logo=github&color=0e75b6" />
-
-<br>
-
-### 💡 *"Engineering is not about writing code. It is about understanding physical reality deeply enough to build sovereign systems that create meaningful impact."*
 
 </div>
 
@@ -21,25 +25,23 @@
 
 # 🌍 Engineering Vision
 
-I believe technology should solve mission-critical real-world problems.
-
-My mission is to build sovereign, intelligent systems that combine:
-- 🤖 Autonomous Multi-Agent Swarms & PINNs
-- 👁️ Edge Computer Vision & Visual Odometry
-- 🛸 UAV Flight Dynamics & Aerospace Intelligence
-- 🛡️ Post-Quantum Cryptography & Defense Cyber-Security
-- ⚡ High-Performance C++/CUDA & Microservices
+Building intelligent solutions for a smarter world by combining:
+- 🐍 **Python** & Advanced AI/ML
+- 👁️ **Computer Vision** & Visual Odometry
+- 🤖 **Robotics** & Autonomous Multi-Agent Swarms
+- 🌐 **Geospatial AI** & 3D Bathymetric Digital Twins
+- ☁️ **Cloud & Scalability** Infrastructure
 
 ---
 
 # 🧠 About Me
 
-🔹 Founder & CEO at **SiliconBrainsAI**  
-🔹 Active Researcher building intelligence frameworks for defense & aerospace applications  
-🔹 Specialist in Edge AI Deployment: Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration  
-🔹 Architecture Focus: Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js)  
-🔹 Algorithmic Acceleration: Integrating Vedic mathematics into computational models  
-🔹 Languages: English & Telugu (తెలుగు)  
+- 🔹 **Founder & CEO / Principal AI Architect** at **SiliconBrainsAI**
+- 🔹 **Active Researcher** building intelligence frameworks for defense & aerospace applications
+- 🔹 **Specialist in Edge AI Deployment:** Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration
+- 🔹 **Architecture Focus:** Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js)
+- 🔹 **Algorithmic Acceleration:** Integrating Vedic mathematics into computational models
+- 🔹 **Languages:** English & Telugu (తెలుగు)
 
 ---
 
@@ -112,6 +114,8 @@ My mission is to build sovereign, intelligent systems that combine:
 # ☕ Let's Build Something Exceptional
 
 <div align="center">
+
+🌐 **Website:** [www.siliconbrainsai.com](https://www.siliconbrainsai.com)
 
 ### 🚀 Open to Collaborations in
 Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Systems
