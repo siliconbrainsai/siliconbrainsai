@@ -28,97 +28,72 @@
 
 Building sovereign, high-concurrency intelligent platforms for defense, aerospace, and edge ecosystems:
 
-- 🐍 **Python & Advanced AI/ML:** Physics-Informed Neural Networks (PINNs) & Edge LLMs
-- 👁️ **Computer Vision:** Real-Time Object Tracking & Visual Odometry
-- 🤖 **Robotics & Swarms:** Multi-UAV Swarm Intelligence & C4ISR Maritime Systems
-- 🌐 **Geospatial AI & Digital Twins:** 3D Volumetric Photogrammetry & Bathymetric Engines
-- ⚡ **High-Performance Architecture:** C++/CUDA Acceleration, FastAPI & WebGL
+* 🐍 **Python & Advanced AI/ML:** Physics-Informed Neural Networks (PINNs) & Edge LLMs
+* 👁️ **Computer Vision:** Real-Time Object Tracking & Visual Odometry
+* 🤖 **Robotics & Swarms:** Multi-UAV Swarm Intelligence & C4ISR Maritime Systems
+* 🌐 **Geospatial AI & Digital Twins:** 3D Volumetric Photogrammetry & Bathymetric Engines
+* ⚡ **High-Performance Architecture:** C++/CUDA Acceleration, FastAPI & WebGL
 
 ---
 
 ## 🧠 About Me
 
-- 🔹 **Founder & CEO / Principal AI Architect** at **SiliconBrainsAI**
-- 🔹 **Active Researcher** engineering intelligence frameworks for space & defense missions
-- 🔹 **Specialist in Edge AI Deployment:** Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration
-- 🔹 **Architecture Focus:** Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js)
-- 🔹 **Algorithmic Acceleration:** Integrating Vedic mathematics into computational acceleration models
-- 🔹 **Languages:** English & Telugu (తెలుగు)
+* 🔹 **Founder & CEO / Principal AI Architect** at **SiliconBrainsAI**
+* 🔹 **Active Researcher** engineering intelligence frameworks for space & defense missions
+* 🔹 **Specialist in Edge AI Deployment:** Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration
+* 🔹 **Architecture Focus:** Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js)
+* 🔹 **Algorithmic Acceleration:** Integrating Vedic mathematics into computational acceleration models
+* 🔹 **Languages:** English & Telugu (తెలుగు)
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Active Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛸 GARUDA-NETRA AI / GARUDA-AVOID</h3>
-      <p>Autonomous UAV logistics & real-time obstacle avoidance platform using PINNs, Visual Odometry, and Post-Quantum Cryptography.</p>
-    </td>
-    <td width="50%">
-      <h3>🐟 AQUA-SENTINEL-X</h3>
-      <p>Subsurface biomimetic robotic fish swarm & 3D bathymetric C4ISR defense platform for maritime border surveillance.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚁 AEROTWIN</h3>
-      <p>End-to-end eVTOL digital twin ecosystem for airspace safety, compliance monitoring, and structural anomaly detection.</p>
-    </td>
-    <td width="50%">
-      <h3>🌌 SPACEHAB-TWIN AI (AETHEL-3)</h3>
-      <p>PINN volumetric digital twin for deep space inflatable habitat breach detection and fluid dynamics modeling.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌖 VISHVAKARMA-X / LUNAR CARGO</h3>
-      <p>Lunar lander hazard avoidance and logistics digital twin utilizing mmWave radar fusion and ballistic capture solvers.</p>
-    </td>
-    <td width="50%">
-      <h3>🏢 ELEVATEGUARD AI</h3>
-      <p>Autonomous 72-hour predictive maintenance platform for industrial elevator networks adhering to ISO/EN standards.</p>
-    </td>
-  </tr>
-</table>
+* 🛸 **GARUDA-NETRA AI / GARUDA-AVOID:** Autonomous UAV logistics & real-time obstacle avoidance framework (PINNs, Visual Odometry, PyTorch, C++)
+* 🐟 **AQUA-SENTINEL-X:** Subsurface biomimetic robotic fish swarm & 3D bathymetric C4ISR defense platform (C++, Hydrophone PSD, WebGL)
+* 🚁 **AEROTWIN:** End-to-end eVTOL digital twin ecosystem for airspace safety & structural anomaly detection (FastAPI, Streamlit, Three.js)
+* 🌌 **SPACEHAB-TWIN AI (AETHEL-3):** PINN volumetric digital twin for deep space inflatable habitat breach detection (PINNs, Navier-Stokes, Python)
+* 🌖 **VISHVAKARMA-X / LUNAR CARGO:** Lunar lander hazard avoidance & logistics digital twin (CUDA, C++, mmWave Radar Fusion)
+* 🏢 **ELEVATEGUARD AI:** Autonomous 72-hour predictive maintenance engine for elevator networks (Python, LightGBM, FastAPI)
 
 ---
 
 ## 🔬 Areas of Expertise
 
-```text
-Autonomous Systems & Defense
-├── Multi-UAV Swarms & Swarm Intelligence
-├── Physics-Informed Neural Networks (PINNs)
-├── Visual Odometry & Obstacle Avoidance
-├── Subsurface Biomimetic Robotics (C4ISR)
-└── Space Situational Awareness & Debris Tracking
+### 🤖 Autonomous Systems & Defense
+* Multi-UAV Swarms & Swarm Intelligence
+* Physics-Informed Neural Networks (PINNs)
+* Visual Odometry & Obstacle Avoidance
+* Subsurface Biomimetic Robotics (C4ISR)
+* Space Situational Awareness & Debris Tracking
 
-Backend & Distributed Systems
-├── FastAPI Microservices
-├── System Architecture & Distributed Systems
-├── Real-Time WebSockets & Telemetry Streaming
-└── High-Concurrency REST APIs
+### ⚙️ Backend & Distributed Systems
+* FastAPI Microservices
+* System Architecture & Distributed Systems
+* Real-Time WebSockets & Telemetry Streaming
+* High-Concurrency REST APIs
 
-Edge AI & Computer Vision
-├── Real-Time Object Tracking & Detection
-├── PyTorch, OpenCV, CUDA & TensorRT Integration
-├── Edge LLMs (Ollama / Local Inference)
-└── 3D Point Cloud Photogrammetry
+### 👁️ Edge AI & Computer Vision
+* Real-Time Object Tracking & Detection
+* PyTorch, OpenCV, CUDA & TensorRT Integration
+* Edge LLMs (Ollama / Local Inference)
+* 3D Point Cloud Photogrammetry
 
-Data & Cloud Engineering
-├── Digital Twin Engineering (WebGL / Three.js)
-├── ETL & Telemetry Processing Pipelines
-├── Azure Cloud & Docker Containerization
-└── Post-Quantum Key Distribution & Cryptography
+### ☁️ Data & Cloud Engineering
+* Digital Twin Engineering (WebGL / Three.js)
+* ETL & Telemetry Processing Pipelines
+* Azure Cloud & Docker Containerization
+* Post-Quantum Key Distribution & Cryptography
+
 ---
+
 ## ⚙️ Tech Stack & Ecosystem
 
-- **Languages:** Python, C++, Rust, TypeScript, C, Bash, SQL
-- **AI / ML / CV:** PyTorch, OpenCV, TensorRT, YOLO, Ollama, Scikit-Learn
-- **Backend & Systems:** FastAPI, REST APIs, WebSockets, Redis, PostgreSQL
-- **Cloud & DevOps:** Docker, Azure, Git, GitHub Actions, Linux
-- **Frontend & 3D:** React, Three.js, WebGL, Streamlit, Tailwind CSS
+* **Languages:** Python, C++, Rust, TypeScript, C, Bash, SQL
+* **AI / ML / CV:** PyTorch, OpenCV, TensorRT, YOLO, Ollama, Scikit-Learn
+* **Backend & Systems:** FastAPI, REST APIs, WebSockets, Redis, PostgreSQL
+* **Cloud & DevOps:** Docker, Azure, Git, GitHub Actions, Linux
+* **Frontend & 3D:** React, Three.js, WebGL, Streamlit, Tailwind CSS
 
 ---
 
