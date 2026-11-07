@@ -100,34 +100,32 @@ into scalable defense, space, and enterprise platforms.
 
 ---
 
-# 🔬 Areas of Expertise
+## 🔬 Areas of Expertise
 
-```text
-Autonomous Systems & Defense
-├── Multi-UAV Swarms & Swarm Intelligence
-├── Physics-Informed Neural Networks (PINNs)
-├── Visual Odometry & Obstacle Avoidance
-├── Subsurface Biomimetic Robotics (C4ISR)
-└── Space Situational Awareness & Debris Tracking
+### 🤖 Autonomous Systems & Defense
+- Multi-UAV Swarms & Swarm Intelligence
+- Physics-Informed Neural Networks (PINNs)
+- Visual Odometry & Obstacle Avoidance
+- Subsurface Biomimetic Robotics (C4ISR)
+- Space Situational Awareness & Debris Tracking
 
-Backend & Distributed Systems
-├── FastAPI Microservices
-├── System Architecture & Distributed Systems
-├── Real-Time WebSockets & Telemetry Streaming
-└── High-Concurrency REST APIs
+### ⚙️ Backend & Distributed Systems
+- FastAPI Microservices
+- System Architecture & Distributed Systems
+- Real-Time WebSockets & Telemetry Streaming
+- High-Concurrency REST APIs
 
-Edge AI & Computer Vision
-├── Real-Time Object Tracking & Detection
-├── PyTorch, OpenCV, CUDA & TensorRT Integration
-├── Edge LLMs (Ollama / Local Inference)
-└── 3D Point Cloud Photogrammetry
+### 👁️ Edge AI & Computer Vision
+- Real-Time Object Tracking & Detection
+- PyTorch, OpenCV, CUDA & TensorRT Integration
+- Edge LLMs (Ollama / Local Inference)
+- 3D Point Cloud Photogrammetry
 
-Data & Cloud Engineering
-├── Digital Twin Engineering (WebGL / Three.js)
-├── ETL & Telemetry Processing Pipelines
-├── Azure Cloud & Docker Containerization
-└── Post-Quantum Key Distribution & Cryptography
-⚙️ Tech Stack
+### ☁️ Data & Cloud Engineering
+- Digital Twin Engineering (WebGL / Three.js)
+- ETL & Telemetry Processing Pipelines
+- Azure Cloud & Docker Containerization
+- Post-Quantum Key Distribution & Cryptography⚙️ Tech Stack
 💻 Programming Languages
 🎨 Frontend & 3D Visualization
 ⚙️ Backend & Systems Development
