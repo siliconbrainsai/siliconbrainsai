@@ -38,12 +38,12 @@ Building sovereign, high-concurrency intelligent platforms for defense, aerospac
 
 ## 🚀 Active Projects
 
-- 🛸 **GARUDA-NETRA AI / GARUDA-AVOID:** Autonomous UAV logistics & real-time obstacle avoidance framework (PINNs, Visual Odometry, PyTorch, C++)
-- 🐟 **AQUA-SENTINEL-X:** Subsurface biomimetic robotic fish swarm & 3D bathymetric C4ISR defense platform (C++, Hydrophone PSD, WebGL)
-- 🚁 **AEROTWIN:** End-to-end eVTOL digital twin ecosystem for airspace safety & structural anomaly detection (FastAPI, Streamlit, Three.js)
-- 🌌 **SPACEHAB-TWIN AI (AETHEL-3):** PINN volumetric digital twin for deep space inflatable habitat breach detection (PINNs, Navier-Stokes, Python)
-- 🌖 **VISHVAKARMA-X / LUNAR CARGO:** Lunar lander hazard avoidance & logistics digital twin (CUDA, C++, mmWave Radar Fusion)
-- 🏢 **ELEVATEGUARD AI:** Autonomous 72-hour predictive maintenance engine for elevator networks (Python, LightGBM, FastAPI)
+- 🛸 **GARUDA-NETRA AI** - Autonomous UAV logistics & real-time obstacle avoidance framework
+- 🐟 **AQUA-SENTINEL-X** - Subsurface biomimetic robotic fish swarm & 3D C4ISR defense platform
+- 🚁 **AEROTWIN** - End-to-end eVTOL digital twin ecosystem for airspace safety & anomaly detection
+- 🌌 **SPACEHAB-TWIN AI** - PINN volumetric digital twin for space habitat breach detection
+- 🌖 **VISHVAKARMA-X** - Lunar lander hazard avoidance & logistics digital twin
+- 🏢 **ELEVATEGUARD AI** - Autonomous 72-hour predictive maintenance engine for elevator networks
 
 ---
 
