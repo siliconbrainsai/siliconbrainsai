@@ -88,8 +88,7 @@ Building sovereign, high-concurrency intelligent platforms for defense, aerospac
 
 ## 📊 Analytics & Metrics
 
-![SiliconBrainsAI Stats](https://github-readme-stats.vercel.app/api?username=siliconbrainsai&show_icons=true&theme=cyberpunk)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siliconbrainsai&layout=compact&theme=cyberpunk)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siliconbrainsai&theme=github-dark)
 
 ---
 
