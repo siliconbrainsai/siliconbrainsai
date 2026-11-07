@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!-- 🚀 NEXT-GEN AI SYSTEMS ENGINEER GITHUB PROFILE README -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # ⚡ Veera Babu Veera
@@ -28,49 +24,28 @@
 I believe technology should solve mission-critical real-world problems.
 
 My mission is to build sovereign, intelligent systems that combine:
-
-🤖 Autonomous Multi-Agent Swarms & PINNs
-
-👁️ Edge Computer Vision & Visual Odometry
-
-🛸 UAV Flight Dynamics & Aerospace Intelligence
-
-🛡️ Post-Quantum Cryptography & Defense Cyber-Security
-
-⚡ High-Performance C++/CUDA & Microservices
-
-☁️ Cloud & Edge AI Infrastructure
-
-into scalable defense, space, and enterprise platforms.
+- 🤖 Autonomous Multi-Agent Swarms & PINNs
+- 👁️ Edge Computer Vision & Visual Odometry
+- 🛸 UAV Flight Dynamics & Aerospace Intelligence
+- 🛡️ Post-Quantum Cryptography & Defense Cyber-Security
+- ⚡ High-Performance C++/CUDA & Microservices
 
 ---
 
 # 🧠 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🔹 Founder & CEO at **SiliconBrainsAI**
-
-🔹 Active Researcher building intelligence frameworks for defense & aerospace applications
-
-🔹 Specialist in Edge AI Deployment: Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration
-
-🔹 Architecture Focus: Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js), and containerized edge pipelines (Docker)
-
-🔹 Algorithmic Acceleration: Integrating Vedic mathematics (Kaṭapayādi, Urdhva Tiryakbhyam) into computational models
-
-🔹 Building Sovereign, Mission-Critical Infrastructure
-
-🔹 Languages: English & Telugu (తెలుగు)
-
-<br>
+🔹 Founder & CEO at **SiliconBrainsAI**  
+🔹 Active Researcher building intelligence frameworks for defense & aerospace applications  
+🔹 Specialist in Edge AI Deployment: Ollama, Llama, Azure OpenAI, Claude API & CUDA Acceleration  
+🔹 Architecture Focus: Microservice backends (FastAPI), interactive web visualizers (Streamlit, React, Three.js)  
+🔹 Algorithmic Acceleration: Integrating Vedic mathematics into computational models  
+🔹 Languages: English & Telugu (తెలుగు)  
 
 ---
 
 # 🚀 Currently Building
 
 ### 🏗️ Active Projects
-
 - 🛸 **GARUDA-AVOID / GARUDA-NETRA AI:** Autonomous UAV logistics & real-time obstacle avoidance platform
 - 🐟 **AQUA-SENTINEL-X:** Subsurface biomimetic robotic fish swarm & 3D bathymetric C4ISR defense platform
 - 🚁 **AEROTWIN:** End-to-end eVTOL digital twin ecosystem for airspace safety & anomaly detection
@@ -80,27 +55,7 @@ into scalable defense, space, and enterprise platforms.
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:siliconbrainsai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/siliconbrainsai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/veerababuveera1-collab">
-<img src="https://img.shields.io/badge/GitHub_Collab-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-## 🔬 Areas of Expertise
+# 🔬 Areas of Expertise
 
 ### 🤖 Autonomous Systems & Defense
 - Multi-UAV Swarms & Swarm Intelligence
@@ -125,60 +80,40 @@ into scalable defense, space, and enterprise platforms.
 - Digital Twin Engineering (WebGL / Three.js)
 - ETL & Telemetry Processing Pipelines
 - Azure Cloud & Docker Containerization
-- Post-Quantum Key Distribution & Cryptography⚙️ Tech Stack
-💻 Programming Languages
-🎨 Frontend & 3D Visualization
-⚙️ Backend & Systems Development
-☁️ Cloud, Edge & DevOps
-🤖 AI, Deep Learning & Vision
-🛠️ Developer Tools
-🚀 Featured Projects
-Project	Description	Technologies
-🛸 GARUDA-AVOID / GARUDA-NETRA AI	Autonomous UAV logistics & real-time obstacle avoidance framework	PINNs, Visual Odometry, PQC, PyTorch, C++
-🐟 AQUA-SENTINEL-X	Biomimetic robotic fish swarm platform for maritime border surveillance	C++, Hydrophone PSD, WebGL, 3D Digital Twin
-🚁 AEROTWIN	eVTOL digital twin ecosystem for airspace safety & structural health	FastAPI, Streamlit, Three.js, Python
-🌌 SPACEHAB-TWIN AI	Physics-informed digital twin for deep space habitat breach detection	PINNs, Navier-Stokes, Python, WebGL
-🌖 VISHVAKARMA-X	Lunar lander hazard avoidance & ballistic capture logistics digital twin	CUDA, C++, mmWave Radar Fusion, Python
-🏢 ELEVATEGUARD AI	Autonomous 72-hour predictive maintenance engine for elevator networks	Python, LightGBM, FastAPI, ISO/EN Standards
-📈 Impact Metrics
-Metric	Achievement
-🚀 Deployable AI Engines	20+ Production Frameworks
-💻 Architecture Hours	4,000+ Deep Engineering Hours
-🛰️ Domain Reach	Aerospace, Maritime, Cyber Defense & Microservices
-🛡️ System Security	Enterprise PQC & Kernel-Level Security Integration
-🎯 Execution Mindset	Sovereign, Scalable & Mission-Critical
-📊 GitHub Analytics
-🏆 GitHub Achievements
-🐍 Contribution Snake
-🛣️ 2026 Engineering Roadmap
-✅ Deploy Multi-UAV Swarm Telemetry & Photogrammetry Engines
+- Post-Quantum Key Distribution & Cryptography
 
-✅ Integrate Physics-Informed Neural Networks into Edge Robotics
+---
 
-✅ Expand Sovereign Enterprise & Aerospace Microservices Architectures
+# 🚀 Featured Projects
 
-⏳ Deploy Edge AI Hardware Payloads into Orbit
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🛸 GARUDA-NETRA AI | Autonomous UAV obstacle avoidance framework | PINNs, Visual Odometry, PyTorch, C++ |
+| 🐟 AQUA-SENTINEL-X | Biomimetic robotic fish swarm platform | C++, Hydrophone PSD, WebGL |
+| 🚁 AEROTWIN | eVTOL digital twin ecosystem | FastAPI, Streamlit, Three.js, Python |
+| 🌌 SPACEHAB-TWIN AI | Physics-informed digital twin for space habitats | PINNs, Navier-Stokes, Python |
+| 🌖 VISHVAKARMA-X | Lunar lander hazard avoidance digital twin | CUDA, C++, mmWave Radar |
+| 🏢 ELEVATEGUARD AI | 72-hour predictive maintenance engine | Python, LightGBM, FastAPI |
 
-⏳ Scale SiliconBrainsAI Autonomous Infrastructure Globally
+---
 
-💭 Engineering Philosophy
-Technology alone does not change the world.
+# 📊 GitHub Analytics
 
-Understanding physical constraints deeply and building robust, resilient architectures does.
+<div align="center">
 
-Real engineering begins where curiosity meets responsibility.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siliconbrainsai&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true"/>
 
-📚 Current Learning Journey
-Plaintext
-Autonomous Swarms & PINNs       ██████████ 100%
-Edge Computer Vision & CUDA     █████████░ 90%
-Backend Microservices           █████████░ 90%
-Post-Quantum Cryptography       ████████░░ 80%
-Aerospace Flight Dynamics       █████████░ 90%
-Space Debris & Telemetry        ████████░░ 80%
-Embedded Robotics & C4ISR       ███████░░░ 70%
-☕ Let's Build Something Exceptional
-🚀 Open to Collaborations in
-Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Backend Systems
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siliconbrainsai&theme=cyberpunk&hide_border=true"/>
 
-⭐ If you like my work, consider following my journey!
+</div>
+
+---
+
+# ☕ Let's Build Something Exceptional
+
+<div align="center">
+
+### 🚀 Open to Collaborations in
+Autonomous Swarms • Edge AI • Defense Technology • Digital Twins • High-Performance Systems
+
+</div>
